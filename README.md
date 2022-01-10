@@ -8,6 +8,7 @@
   - ポートフォリオとは何かや、最初の考え方などを確認しましょう
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
   - ポートフォリオの例
+  - [この講義での作例]()
 - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
   - ポートフォリオ自動作成サービス。どのような項目が記載されているかを確認しましょう
 
@@ -16,4 +17,12 @@ GitHubには、Webページをホストする**GitHub Pages**という機能が�
 
 - [GitHub Pagesとは](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - [GitHub Pagesの作り方](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [GitHub Markdownの文法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+## 参考URL
+- [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
+- [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
+- [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
+- [GitHub Pagesとは](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - [GitHub Markdownの文法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
