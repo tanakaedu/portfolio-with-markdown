@@ -154,6 +154,8 @@ GitHub Pagesの見た目を変更する方法はいくつかあるが、とり�
 
 [GitHub Pagesにテーマを設定する](https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser#adding-a-theme-with-the-theme-chooser)
 
+### テーマの削除
+テーマをデフォルトに戻したい時は、リポジトリに追加される`_config.yml`を削除して、コミット＆プッシュする。
 
 ## 参考URL
 - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作](https://paiza.jp/works/career/primer/career2)
