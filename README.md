@@ -14,8 +14,13 @@
 ## マークダウンで作成したWebページをGitHub Pagesで公開する
 GitHubには、Webページをホストする**GitHub Pages**という機能がある。ポートフォリオ用のリポジトリーを作成して、GitHub Pagesを使ってポートフォリオページを作成して公開しよう。
 
+### GitHub Pagesの作成
 - [GitHub Pagesとは](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - [GitHub Pagesの作り方](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+
+
+
 - [GitHub Markdownの文法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
