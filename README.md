@@ -128,14 +128,31 @@ GitHub PagesはHTMLかマークダウン(md)ファイルをWebページとして
 [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)を参考に、ポートフォリオに載せたい情報をまとめる。
 
 - 活動名とポートフォリオであることを表すページタイトル
-- 資格とスキル
-- 興味があること
+- 資格
+- スキル
+- 取り組んでいるテーマ
 - 成果物
 - 連絡先
 
+### ポートフォリオページを作成
 
+1. Atomの左のリポジトリ名を右クリックして、New File を選択して、`index.md`の名前にする
+1. [こちら](portfolio-template.md)を右クリックして、新しいタブで開く
+1. 開いたページを全て選択してコピーして、作成した`index.md`に貼り付ける
+1. 上書き保存
+1. Packagesメニューから Markdown Preview Plus を選択して、マークダウンをライブ表示
+
+以上でポートフォリオの雛形ページの作成とライブ表示ができた。
+
+### 自分のポートフォリオの作成
+[サンプルページ]()を右クリックで新しいタブで開くと、ポートフォリオページの例が表示される。これを参考にして、自分の情報に置き換えてページを仕上げる。
+
+サンプルは最低限の内容であり、ここから工夫して自分らしさを出すのが大切。一通り書けたら改良に取り組もう。
 
 ## テーマの変更
+GitHub Pagesの見た目を変更する方法はいくつかあるが、とりあえず組み込みのテーマを使うと手軽に変更ができる。以下を参考に
+
+[GitHub Pagesにテーマを設定する](https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser#adding-a-theme-with-the-theme-chooser)
 
 
 ## 参考URL
@@ -144,3 +161,4 @@ GitHub PagesはHTMLかマークダウン(md)ファイルをWebページとして
 - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
 - [GitHub Pagesとは](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - [GitHub Markdownの文法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [GitHub Pagesにテーマを設定する](https://docs.github.com/en/pages/getting-started-with-github-pages/adding-a-theme-to-your-github-pages-site-with-the-theme-chooser#adding-a-theme-with-the-theme-chooser)

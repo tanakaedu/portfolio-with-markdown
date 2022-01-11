@@ -5,8 +5,8 @@
 # Portfolio
 
 - デジタルアーツ太郎
-- 連絡先 Twitter [@am1tanaka](https://twitter.com/am1tanaka) / Email [tnk.dat.class@gmail.com](mailto:tnk.dat.class@gmail.com)
-- 専門学校デジタルアーツ東京 ゲームプログラマーコース 202x年卒業予定
+- 連絡先 Twitter [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
+- 専門学校デジタルアーツ東京 ゲームプログラムコース 202x年卒業予定
 
 ## 資格
 - ITパスポート試験合格
@@ -81,4 +81,4 @@
 ## 連絡先
 - ブログ [tanaka's Programming Memo](https://am1tanaka.hatenablog.com/)
 - Twitter [@am1tanaka](https://twitter.com/am1tanaka)
-- E-mail [tnk.dat.class@gmail.com](mailto:tnk.dat.class@gmail.com)
+- E-mail [a@a.a](mailto:a@a.a)
