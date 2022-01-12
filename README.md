@@ -48,7 +48,7 @@ Atomエディターでリポジトリの内容を編集する。
   - インストールが完了したら、Atomを閉じて、開き直す
 1. README.md の最後の行に `atomで追加` と入力して、Ctrl + S キーで保存
 
-### 変更をGitHubにプル
+### 変更をGitHubにプッシュ
 1. Atomで変更を保存したら、GitHub Desktopに切り替える
 1. Summary欄に変更点を簡潔に入力して Commit to main をクリック
 1. Push origin をクリック
