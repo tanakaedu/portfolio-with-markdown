@@ -7,7 +7,7 @@
   - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
 - ポートフォリオの例
   - [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
-  - [この講義での作例]()
+  - [この講義での作例](portfolio-example.md)
 - ポートフォリオ自動作成サービスでどのような項目が記載されているかを確認
   - [LAPRAS Inc. ポートフォリオ自動作成サービス](https://lapras.com/)
 
