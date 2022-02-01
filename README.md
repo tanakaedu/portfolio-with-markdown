@@ -5,6 +5,7 @@
 
 - ポートフォリオとは何か、作る際に最初にやること、などを確認
   - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
+  - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
 - ポートフォリオの例
   - [Chomado’s Portfolio (ちょまど)](https://chomado.com/chomado/)
   - [この講義での作例](portfolio-example.md)
