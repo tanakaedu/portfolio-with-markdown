@@ -5,7 +5,7 @@
 # Portfolio
 
 - デジタルアーツ太郎
-- 連絡先 Twitter [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
+- 連絡先 X [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 202x年卒業予定
 
 ## 資格
@@ -83,5 +83,5 @@
 
 ## 連絡先
 - ブログ [tanaka's Programming Memo](https://am1tanaka.hatenablog.com/)
-- Twitter [@am1tanaka](https://twitter.com/am1tanaka)
+- X [@am1tanaka](https://twitter.com/am1tanaka)
 - E-mail [a@a.a](mailto:a@a.a)
