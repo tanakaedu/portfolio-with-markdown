@@ -2,8 +2,6 @@
 
 ---
 
-# Portfolio
-
 - デジタルアーツ太郎
 - 連絡先 X [@am1tanaka](https://twitter.com/am1tanaka) / Email [a@a.a](mailto:a@a.a)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 202x年卒業予定
